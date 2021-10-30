@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppGIT", "ConsoleApp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitLibrary", "GitLibrary\GitLibrary.csproj", "{FBE4973E-BE3F-429F-A9E9-076F30691367}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp", "WinFormsApp\WinFormsApp.csproj", "{C13F0307-6288-48D8-BE30-350E32A353FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FBE4973E-BE3F-429F-A9E9-076F30691367}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBE4973E-BE3F-429F-A9E9-076F30691367}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBE4973E-BE3F-429F-A9E9-076F30691367}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C13F0307-6288-48D8-BE30-350E32A353FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C13F0307-6288-48D8-BE30-350E32A353FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C13F0307-6288-48D8-BE30-350E32A353FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C13F0307-6288-48D8-BE30-350E32A353FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

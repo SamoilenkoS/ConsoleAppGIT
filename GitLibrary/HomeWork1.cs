@@ -34,6 +34,5 @@ namespace GitLibrary
 
             return (A, B);
         }
-
     }
 }
