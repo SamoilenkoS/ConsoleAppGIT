@@ -4,9 +4,9 @@ namespace ConsoleAppGIT
 {
     class Program
     {
-        static void Test()
+        static void Task3()
         {
-
+            Console.Write("Task implemented");
         }
 
         static void Main(string[] args)
